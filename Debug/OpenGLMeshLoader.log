@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLMeshLoader19.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  graphics-maze-project.cpp
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(250,51): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(250,73): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(250,111): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(251,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(251,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(251,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(329,52): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(329,79): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(329,117): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(330,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(330,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\graphics-maze-project.cpp(330,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> E:\study\GUC\semester 7\graphics\Project after mariam and marwan\graphics-maze-project\Debug\graphics-maze-project.exe

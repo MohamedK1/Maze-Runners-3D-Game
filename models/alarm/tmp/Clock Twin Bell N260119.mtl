@@ -1,0 +1,76 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 26.01.2019 19:38:37
+
+newmtl mat_steklo
+	Ns 30.0000
+	Ni 1.5000
+	d 0.4000
+	Tr 0.4000
+	Tf 0.4000 0.4000 0.4000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8353 0.8000 0.7686
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.2088 0.2000 0.1922
+
+newmtl st_tile
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.9216 0.9216
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\ттт\metal_gl.jpg
+	map_Kd D:\New folder 2\ттт\metal_gl.jpg
+	map_bump D:\New folder 2\ттт\metal_gl.jpg
+	bump D:\New folder 2\ттт\metal_gl.jpg
+
+newmtl black_st
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3098 0.3098 0.3098
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\ттт\metalbl.jpg
+	map_Kd D:\New folder 2\ттт\metalbl.jpg
+	map_bump -bm 0.3000 D:\New folder 2\ттт\metalbl.jpg
+	bump -bm 0.3000 D:\New folder 2\ттт\metalbl.jpg
+
+newmtl st_gold
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9451 0.7725 0.4078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Metal G6.jpg
+	map_Kd D:\New folder 2\Metal G6.jpg
+
+newmtl red
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8667 0.4353 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\1M red.jpg
+	map_Kd D:\New folder 2\1M red.jpg
+	map_bump -bm 0.3000 D:\New folder 2\1M red.jpg
+	bump -bm 0.3000 D:\New folder 2\1M red.jpg
